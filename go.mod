@@ -1,4 +1,4 @@
-module go-banking-lib
+module github.com/arierimbaboemi/go-banking-lib
 
 go 1.21.5
 
